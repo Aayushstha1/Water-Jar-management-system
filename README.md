@@ -1,5 +1,5 @@
-📜 Project Overview
-The Water-Jar Management System is a comprehensive web application designed to streamline the management of water jar distribution. The system is tailored to facilitate operations for customers, admin, and delivery personnel, ensuring efficient service delivery, order management, and customer satisfaction.
+<b>📜 Project Overview<b><br>
+The Water-Jar Management System is a comprehensive web application designed to streamline the management of water jar distribution. The system is tailored to facilitate operations for customers, admin, and delivery personnel, ensuring efficient service delivery, order management, and customer satisfaction.<br><br>
 
 🚀 Features
 Customer Dashboard:
