@@ -86,4 +86,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
-For any inquiries or support, please reach out to your email.
+For any inquiries or support, please reach out to aayush5709@gmail.com.
